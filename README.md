@@ -20,7 +20,8 @@ Welcome to the YouTube Downloader Application repository! This project is a simp
   pip install pytubefix customtkinter
 
 
+<video width="640" height="360" controls>
+  <source src="path_to_your_video_file.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-https://github.com/Images/YT.MP4
-
-![YT](https://github.com/user-attachments/assets/e1700c6f-a1cf-4e97-b28c-854d700ad29c)
