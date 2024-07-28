@@ -21,7 +21,7 @@ Welcome to the YouTube Downloader Application repository! This project is a simp
 
 
 <video width="640" height="360" controls>
-  <source src="path_to_your_video_file.mp4" type="video/mp4">
+  <source src="YouTube-Video-Downloader-Desktop-Application/Images/YT.MP4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
