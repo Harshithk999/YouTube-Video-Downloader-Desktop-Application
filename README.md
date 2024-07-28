@@ -18,3 +18,5 @@ Welcome to the YouTube Downloader Application repository! This project is a simp
 - **Install Dependencies**:
   ```sh
   pip install pytubefix customtkinter
+
+- **Video**: Use a thumbnail image as a placeholder that links to the video file. The markdown syntax `[![Watch the video]](Images/YT.mp4)`
