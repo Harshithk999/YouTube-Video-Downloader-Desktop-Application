@@ -19,4 +19,9 @@ Welcome to the YouTube Downloader Application repository! This project is a simp
   ```sh
   pip install pytubefix customtkinter
 
-- **Video**: Use a thumbnail image as a placeholder that links to the video file. The markdown syntax `[![Watch the video]](Images/YT.mp4)`
+<div style="width: 100%; max-width: 600px; margin: auto;">
+  <video controls>
+    <source src="images/YT.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
