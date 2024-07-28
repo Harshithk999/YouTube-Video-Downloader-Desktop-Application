@@ -6,7 +6,6 @@ Welcome to the YouTube Downloader Application repository! This project is a simp
 
 ## Overview
 - A Python-based application for downloading YouTube videos.
-- Combines video and audio streams into a single file.
 - User-friendly interface built with `customtkinter`.
 
 ## Features
