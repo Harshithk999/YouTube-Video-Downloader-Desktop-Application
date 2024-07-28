@@ -2,8 +2,6 @@
 Welcome to the YouTube Downloader Application repository! This project is a simple and efficient tool for downloading YouTube videos . Built using Python, it leverages the pytube library for fetching video streams and customtkinter for a modern and user-friendly GUI.
 
 
-# YouTube Downloader Application
-
 ## Overview
 - A Python-based application for downloading YouTube videos.
 - User-friendly interface built with `customtkinter`.
